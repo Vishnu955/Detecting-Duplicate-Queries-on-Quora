@@ -12,3 +12,7 @@ model is developed in such a way that the model classifies the two questions int
 The user experience in Quora can be greatly enhanced by addressing the challenge of predicting the 
 occurrence of the duplicate question in the Quora platform and enhancing the engagement in Quora 
 community by removing the duplicate question. 
+
+
+
+This project is licensed under the [Apache License 2.0](LICENSE).
